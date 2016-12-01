@@ -1,0 +1,96 @@
+
+PlayButtons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Joystick
+  rotate: false
+  xy: 1, 83
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+Joystickp
+  rotate: false
+  xy: 163, 83
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+A
+  rotate: false
+  xy: 1, 1
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+Ap
+  rotate: false
+  xy: 325, 163
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+B
+  rotate: false
+  xy: 83, 1
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+Bp
+  rotate: false
+  xy: 407, 163
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+Shoot
+  rotate: false
+  xy: 165, 1
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+Shootp
+  rotate: false
+  xy: 325, 81
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+Back
+  rotate: false
+  xy: 407, 113
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Mute
+  rotate: false
+  xy: 247, 33
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Pause
+  rotate: false
+  xy: 407, 63
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Play
+  rotate: false
+  xy: 457, 113
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Sound
+  rotate: false
+  xy: 457, 63
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
